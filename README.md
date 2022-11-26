@@ -1,5 +1,6 @@
 # 4090-Graphic-card-buy-automation
 
+this Selenium automation project will automate the process of waiting for a product to be available, and then buy the product. This will help to speed up the process of purchasing a product, and reduce the chance of the product being sold out.
 
 ## Features
 - Refreshes link until "Add to Cart" button is available
